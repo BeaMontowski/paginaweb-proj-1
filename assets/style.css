@@ -1,6 +1,13 @@
+
+
 body {
     background-color: rgb(255, 255, 255);
-    }
+    font-family: "Comic Neue", cursive;
+     font-weight: 700;
+     font-size: larger;
+     font-style: normal;
+}
+    
 
       footer {
     background-color: black;
@@ -11,16 +18,26 @@ body {
 }
 footer p{
     text-align: center;
-    font-size: 1.0rem;
+    font-size: 1.1rem;
 }
 
 #container {
     display:flex ;
 }
 
-.cartao {background-color: aquamarine;
+.cartao {
+    margin: 1rem 1rem;
+    background-color: aquamarine;
+    height: 20rem;
+    flex-grow: 1;
+    flex-basis: calc(33% -6rem);
 
     }
+
+    .cartao__conteudo {
+    text-align: center;
+    height: 100%;
+}
 
 .cartao__conteudo h3 {
     background-color: rgb(254, 216, 64);
