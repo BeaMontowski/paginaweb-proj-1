@@ -67,7 +67,7 @@ adicionaCartao(
 )
 
 adicionaCartao(
-    'Cerca de 2.100 obras, incluindo mais de 800 pinturas a óleo.',
+    'Como Van Gogh morreu?',
     'Ele morreu em 29 de julho de 1890, provavelmente por suicídio, aos 37 anos.'
 )
 
