@@ -52,3 +52,26 @@ adicionaCartao(
     'Theo van Gogh. Ele era comerciante de arte e apoiou Vincent financeiramente e emocionalmente.'
 )
 
+adicionaCartao(
+    'Van Gogh cortou a própria orelha?',
+    'Sim, ele cortou parte da orelha durante um surto mental em 1888, quando vivia em Arles, na França'
+)
+adicionaCartao(
+    'Van Gogh pintava com que estilo?',
+    'Ele pintava no estilo pós-impressionista, com pinceladas fortes e cores intensas.'
+)
+
+adicionaCartao(
+    'Quantas obras Van Gogh produziu?',
+    'Cerca de 2.100 obras, incluindo mais de 800 pinturas a óleo.'
+)
+
+adicionaCartao(
+    'Cerca de 2.100 obras, incluindo mais de 800 pinturas a óleo.',
+    'Ele morreu em 29 de julho de 1890, provavelmente por suicídio, aos 37 anos.'
+)
+
+adicionaCartao(
+    'Van Gogh ficou famoso em vida?',
+    'Não. Ele só se tornou mundialmente famoso depois de sua morte.'
+)
